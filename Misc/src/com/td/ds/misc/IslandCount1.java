@@ -1,6 +1,6 @@
 package com.td.ds.misc;
 
-public class IslandCount {
+public class IslandCount1 {
 	 public static void main(String[] args) {
 		 
 		  int[][] island = new int[][] {
